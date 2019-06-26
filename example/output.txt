@@ -1,0 +1,10 @@
+Root
+╟── brandco
+╟── contestcore
+╟── eurostar
+║   ╙── mandrill
+╟── lulu-app
+║   ╙── email2
+╙── mandrillapp
+    ╟── mail91.us4
+    ╙── mail92.us4
