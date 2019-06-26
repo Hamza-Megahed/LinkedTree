@@ -11,6 +11,14 @@
 
 Linked Tree is used to build a tree of domains and sub-domains and get output in ASCII , json and image
 
+DEPENDENCIES
+------------
+
+  * [tldextract](https://pypi.org/project/tldextract/)
+  * [treelib](https://pypi.org/project/treelib/)
+
+Install using pip3
+`pip3 install tldextract treelib`
 
 ASCII:
 ```
